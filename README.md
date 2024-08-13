@@ -73,3 +73,7 @@ nmap -sS
 - **Custom Dashboard**: Visualize security events in real-time.
 - **Alerting System**: Set up alerts for specific security events, enabling proactive incident response.
 
+## Acknowledgments
+
+The steps and instructions provided in this project were inspired by the article [A Simple Elastic SIEM Lab](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2) by Aali, which offers an excellent guide on setting up an Elastic SIEM lab.
+
